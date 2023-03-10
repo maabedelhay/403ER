@@ -3,21 +3,16 @@
 - It can also be used to compare responses on verious conditions as shown in the below snap
 
 # Usage
-`./bypass-403.sh https://example.com admin`
+`./403ER.sh https://example.com admin`
 
-`./bypass-403.sh website-here path-here`
+`./403ER.sh website-here path-here`
 
 # Features
-- Use 24 known Bypasses for 403 with the help of curl
+- Bypasses 403 with the help of curl
 
 # Installation
-   * `git clone https://github.com/iamj0ker/bypass-403`
-   * `cd bypass-403`
-   * `chmod +x bypass-403.sh`
+   * `git clone https://github.com/maabedelhay/403ER.git`
+   * `cd 403ER`
+   * `chmod +x 403ER.sh`
    * `sudo apt install figlet`  - If you are unable to see the logo as in the screenshot
    
-# Contributers
-  [remonsec](https://github.com/remonsec),
-  [manpreet](https://github.com/manpreet406)
-  [MayankPandey01](https://github.com/MayankPandey01)
-  [saadibabar](https://github.com/saadibabar)
